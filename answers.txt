@@ -11,3 +11,8 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: The key difference between merge and rebase is that while merge preserves history as it happened, rebase rewrites it. Merging adds a new commit 
 to your history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my ability to analyze raw data and develop accurate, well-evaluated models. Additionally, I aim to refine my general software 
+development skills, such as version control, to streamline collaboration and improve my coding practices.
