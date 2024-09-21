@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: I think data can generally be applied to all fields. A couple of niche examples would be 
+predicting diseases using data or optimizing transportation routes. It's the art of studying, evaluating 
+and modelling data.
