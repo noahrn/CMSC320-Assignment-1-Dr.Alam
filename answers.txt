@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: I think data can generally be applied to all fields. A couple of niche examples would be 
 predicting diseases using data or optimizing transportation routes. It's the art of studying, evaluating and modelling data.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The key difference between merge and rebase is that while merge preserves history as it happened, rebase rewrites it. Merging adds a new commit 
+to your history.
